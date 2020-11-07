@@ -22,7 +22,7 @@ Caso necessário rode também:
 
 ```yarn upgrade```
 
-Rodar o projeto ```yarn start``
+Rodar o projeto ```yarn start```
 
 Rodar os testes no projeto
 ```yarn test```
